@@ -1,2 +1,2 @@
 # ANOR Project
-I help for paper project. This Notebook as no data included.
+I help for paper project. This notebook as no data included.
