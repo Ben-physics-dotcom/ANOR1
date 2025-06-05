@@ -14,6 +14,7 @@ ToDos.txt
 *.xlsb
 Protocoll.txt
 *.DS_Store
+Notebooks/data_transformation.ipynb
 
 ################################
 ########### FOLDERS ############
