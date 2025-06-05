@@ -7,4 +7,4 @@ EBM stands for ...
 
 ## GAM
 GAM stands for generated add.. models. Because of packages conflicts
-this can be find in the repository: (Link)[https://github.com/Ben-physics-dotcom/PyGAM_ANOR]
+this can be find in the repository: [Link](https://github.com/Ben-physics-dotcom/PyGAM_ANOR)
