@@ -34,6 +34,11 @@ def feature_importance(model, X_train, y_train, model_name, path=path):
     return feature_importance_df
 
 
+def fi(model, xtrain, ytrain):
+    model.fit(xtrain, ytrain)
+    imp = model.feature_importances_
+    return imp 
+
 
 def test_function():
     print('This is a test function')
